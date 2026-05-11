@@ -1,13 +1,15 @@
 # HILL CIPHER
 
-## EX. NO: 3 AIM:
+## EX. NO: 3 
 ## NAME : Yuvan shankar M
 ## REG NO : 212224220126
  
 
 ## IMPLEMENTATION OF HILL CIPHER
  
-## To write a python program to implement the hill cipher substitution techniques.
+## AIM:
+
+To write a python program to implement the hill cipher substitution techniques.
 
 ## DESCRIPTION:
 
